@@ -6,5 +6,5 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var express_1 = require("express");
 var candidate_routes_1 = __importDefault(require("./candidate.routes"));
 var routes = express_1.Router();
-routes.use('/candidate', candidate_routes_1.default);
+routes.use('/', candidate_routes_1.default);
 exports.default = routes;
