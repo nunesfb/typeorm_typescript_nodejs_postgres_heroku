@@ -3,6 +3,6 @@ import candidateTypeRouter from './candidate.routes';
 
 const routes = Router();
  
-routes.use('/candidate', candidateTypeRouter);
+routes.use('/', candidateTypeRouter);
 
 export default routes;
