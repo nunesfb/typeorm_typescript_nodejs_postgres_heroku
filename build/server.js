@@ -6,9 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 // temos que instalar e importar esta dependencia
 // é uma dependencia do typescript, principalmente quando se usa o decorator
 require("reflect-metadata");
-if (process.env.NODE_ENV !== "production") {
-    require("dotenv").config();
-}
+require("dotenv").config();
 var express_1 = __importDefault(require("express"));
 var cors_1 = __importDefault(require("cors"));
 var index_1 = __importDefault(require("./routes/index"));

@@ -1,9 +1,7 @@
 // temos que instalar e importar esta dependencia
 // é uma dependencia do typescript, principalmente quando se usa o decorator
-import 'reflect-metadata';
-if(process.env.NODE_ENV !== "production"){
-  require("dotenv").config();  
-}
+import 'reflect-metadata'; 
+require("dotenv").config(); 
 import express from 'express';
 import cors from 'cors';
 import routes from './routes/index';
