@@ -1,12 +1,14 @@
+<p align="center">
+  <img alt="LogoTecEdu4All" src="https://yt3.googleusercontent.com/dmw2l1Yz24lOBeG175P6ovEnNdNI3zNVoMiUMRNyqE8o_ECDsvU1ttPNRWCB_VAXZlOcLKsiYKQ=s176-c-k-c0x00ffffff-no-rj" width="120px" />
+</p>
+
 <h1 align="center">
-  <img alt="LogoTecEdu4All" src="http://materiaisaulas.tecedu4all.com.br/canal/logo.png" width="120px" />
+  Hospedando uma aplicação com NodeJS,TypeScript, TypeORM e Postgres no Heroku
 </h1>
 
-<h3 align="center">
-  Hospedando uma aplicação com NodeJS,TypeScript, TypeORM e Postgres no Heroku
-</h3>
+<p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
 
-<p align="center">Estes códigos pertencem à playlist de vídeos do canal TecEdu4All no YouTube</p> 
+<p align="justify">Se gostou do repositório, deixe sua estrela ⭐ </p> 
 
 
 ## 👨🏼‍💻 Professor
